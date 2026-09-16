@@ -1,0 +1,24 @@
+```
+# Compiled Java classes
+*.class
+
+# Build artifacts
+bin/
+build/
+
+# Dependencies
+lib/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+```
